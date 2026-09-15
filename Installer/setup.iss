@@ -1,4 +1,5 @@
 [Setup]
+SourceDir=..
 AppName=NetworkSwitcher
 AppVersion=1.0
 DefaultDirName={autopf}\NetworkSwitcher
@@ -7,7 +8,7 @@ OutputBaseFilename=NetworkSwitcher_Setup
 Compression=lzma
 SolidCompression=yes
 PrivilegesRequired=admin
-SetupIconFile=miyabi.ico
+SetupIconFile=Resources\miyabi.ico
 
 [Files]
 Source: "bin\Release\NetworkSwitcher.exe"; DestDir: "{app}"; Flags: ignoreversion
