@@ -1,0 +1,20 @@
+# === Сборочные артефакты .NET / Visual Studio ===
+[Bb]in/
+[Oo]bj/
+[Oo]utput/
+*.pdb
+*.cache
+
+# === Пользовательские/IDE-специфичные файлы (никогда не коммитить) ===
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# === Inno Setup ===
+# Output/ уже исключён выше — именно туда компилятор Inno Setup кладёт готовый .exe установщика
+
+# === Логи/временное ===
+*.log
+*.tmp
