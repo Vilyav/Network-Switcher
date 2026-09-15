@@ -12,7 +12,7 @@
   * [Страница релизов zapret-discord-youtube (GitHub)](https://github.com/Flowseal/zapret-discord-youtube/releases) — готовые сборки батников и утилит Zapret.
 * **AmneziaWG**  
   * [Страница релизов AmneziaWG Windows Client (GitHub)](https://github.com/amnezia-vpn/amneziawg-windows-client/releases) — инсталляторы WireGuard-клиента с защитой от блокировок.
-  * [Генератор конфигураций WARP для AmneziaWG](https://warp-generation.github.io) — веб-сервис для быстрого создания готовых `.conf` файлов туннеля WARP.
+  * [Генератор конфигураций WARP для AmneziaWG](https://warp-generation.github.io) — веб-сервис для быстрого создания готовых `.conf` файлов туннеля.
 * **Cloudflare WARP**  
   * [Центр загрузок Cloudflare Client](https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/) — официальные дистрибутивы приложения Cloudflare WARP для Windows.
 
@@ -36,7 +36,7 @@
    * **Warp CLI**: путь к `warp-cli.exe` (по умолчанию `C:\Program Files\Cloudflare\Cloudflare WARP\warp-cli.exe`).
    * **AmneziaWG Exe**: путь к `amneziawg.exe` (по умолчанию `C:\Program Files\AmneziaWG\amneziawg.exe`).
    * **Конфиг AmneziaWG**: путь к вашему `.conf` файлу. *Имя туннеля извлечётся и зафиксируется автоматически из названия файла.*
-3. На странице **Настройка стратегий** выберите режим работы (стандартные имена батников `general (ALT9).bat` / `general (ALT11).bat` или укажите кастомные).
+3. На странице **Настройка стратегий** выберите режим работы (стандартные имена батников `general (ALT9).bat` / `general (ALT11).bat` или укажите свои).
 
 ---
 
